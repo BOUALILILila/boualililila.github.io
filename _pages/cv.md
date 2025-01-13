@@ -97,17 +97,43 @@ redirect_from:
 <table class="heatMap">
    <thead>
       <tr>
-         <th><i class="fa fa-briefcase"></i> PostDoc Researcher in NLP</th>
-         <th>December 2022, present</th>
+         <th><i class="fa fa-briefcase"></i> Data Scientist, NLP Specialist </th>
+         <th>October 2023, present</th>
       </tr>
    </thead>
    <tbody>
       <tr>
-        <td>University of Grenoble Alpes</td>
+        <td><a href="https://mindflow.io/"> Mindflow </a></td>
+        <td>Paris, France</td>
+      </tr>
+      <tr>
+         <td colspan="2">
+            Designing no-code solutions powered by Generative AI agents to streamline task orchestration in cybersecurity operations.
+            <ul>
+               <li> Designed and deployed stateful multi-agent systems leveraging Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG), enabling seamless natural language interactions with over 3,000 API integrations. [Patent Pending]</li>
+               <li> Evaluated different retrieval approaches for RAG experimenting with sparse, dense, and hybrid models to improve retrieval accuracy and reduce latency.</li>
+               <li> Studied various multi-agent workflows, including collaboration through shared memory and hierarchical agent interactions to enhance scalability and reduce cost.</li>
+               <li> Designed an evaluation framework for assessing the planning and tool-use capabilities of LLMs, ensuring high-quality performance and decision-making in complex scenarios. </li>
+            </ul>
+         </td>
+      </tr>
+   </tbody>
+</table>
+
+<table class="heatMap">
+   <thead>
+      <tr>
+         <th><i class="fa fa-briefcase"></i> PostDoc Researcher in NLP </th>
+         <th>December 2022, September 2023</th>
+      </tr>
+   </thead>
+   <tbody>
+      <tr>
+        <td><a href="https://www.liglab.fr/en"> LIG, University of Grenoble Alps </a> </td>
         <td>Grenoble, France</td>
       </tr>
       <tr>
-         <td colspan="2">Enhancing the systematic generalization capabilities of sequence‑to‑sequence models by integrating structural (syntactic) information into the decoding process via hyperbolic representations of dependency trees.</td>
+         <td colspan="2"> Enhancing the systematic compositional generalization capabilities of sequence-to-sequence (seq2seq) models by integrating structural (syntactic) information into the decoding process through hyperbolic representations of dependency trees.</td>
       </tr>
    </tbody>
 </table>
@@ -121,11 +147,12 @@ redirect_from:
    </thead>
    <tbody>
       <tr>
-        <td>Max Plank Institute (MPI) for Informatics</td>
+        <td><a href="https://www.mpi-inf.mpg.de/home"> Max Plank Institute (MPI) for Informatics </a> </td>
         <td>Saarbrücken, Germany</td>
       </tr>
       <tr>
-         <td colspan="2">Investigating the distillation of Transformer produced contextualized representations into a more explicit and principled contextualization process based on aggregating a finite set of static term-topic embeddings representing the different contextual topics of tokens.</td>
+         <td colspan="2">Studied advancements with the ColBERT architecture, which relies on token-level representations with late interactions for document ranking. 
+Proposed a novel approach for distilling ColBERT’s contextualized token embeddings into a more explicit and principled process by aggregating a finite set of frozen, pre-trained term-topic embeddings, with each term-topic capturing a contextual topic of a token.</td>
       </tr>
    </tbody>
 </table>
@@ -139,7 +166,7 @@ redirect_from:
    </thead>
    <tbody>
       <tr>
-        <td>Institut de Recherche en Informatique de Toulouse (IRIT)</td>
+        <td><a href="https://www.irit.fr/"> Institut de Recherche en Informatique de Toulouse (IRIT) </a></td>
         <td>Toulouse, France</td>
       </tr>
       <tr>
@@ -150,7 +177,7 @@ redirect_from:
   
 ## Skills
 ***
-<i class="fa fa-code"></i> **Coding** Python, C, JAVA, Typescript, JavaScript and PL/SQL
+<i class="fa fa-code"></i> **Coding** Python, C, Typescript, JavaScript and PL/SQL
 
 <i class="fa fa-book"></i> **Libraries** Pytorch, TensorFlow, Sickit-learn, Transformers, Sentence-Transformers, Faiss, fairseq
 
@@ -183,7 +210,6 @@ redirect_from:
 ## Hobbies
 ***
 <i class="fa fa-camera-retro" aria-hidden="true"></i> Photography |
-<i class="fas fa-hiking"></i>  Hiking | 
 <i class="fa fa-book-open"></i> Reading | 
 <i class="fa fa-palette"></i>  Drawing | 
 <i class="fa fa-microchip"></i>  Electronics
